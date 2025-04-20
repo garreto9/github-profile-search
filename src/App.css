@@ -1,0 +1,17 @@
+.app-container {
+  padding: 2rem;
+  text-align: center;
+}
+
+.content-area {
+  min-height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 576px) {
+  .app-container {
+    padding: 1rem;
+  }
+}

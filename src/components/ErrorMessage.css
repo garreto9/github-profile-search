@@ -1,0 +1,16 @@
+.error-container {
+  background-color: #f2f2f2;
+  border-radius: 8px;
+  padding: 1.5rem;
+  max-width: 600px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.error-text {
+  color: #f85149;
+  font-size: 1.1rem;
+  margin: 0;
+  line-height: 1.5;
+  text-align: center;
+}
